@@ -1,1 +1,1 @@
-Shutter untility for Windows
+Shutter utility for Windows
